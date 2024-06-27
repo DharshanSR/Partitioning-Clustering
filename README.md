@@ -66,4 +66,4 @@ The project is divided into two main subtasks:
 Ensure you have the following R packages installed:
 
 ```r
-install.packages(c( "cluster", "factoextra", "NBclust", "corrplot"))
+install.packages(c( "cluster", "factoextra", "NBclust", "readxl", "fpc"))
